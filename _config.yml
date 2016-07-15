@@ -10,7 +10,7 @@ title: === My Random Blog ===
 email: zhihong@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
   Random blogs
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/china2016" # the subpath of your site, e.g. /blog
 url: "http://zzcoder.github.io/china2016" # the base hostname & protocol for your site
 twitter_username: zhang 
 github_username:  zzcoder 
