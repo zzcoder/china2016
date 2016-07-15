@@ -4,10 +4,10 @@
     <title>=== My Random Blog ===</title>
     <description>Random blogs
 </description>
-    <link>http://zzcoder.github.io/china2016/blog/</link>
-    <atom:link href="http://zzcoder.github.io/china2016/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 10:36:09 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 10:36:09 -0400</lastBuildDate>
+    <link>http://zzcoder.github.io/china2016/china2016/</link>
+    <atom:link href="http://zzcoder.github.io/china2016/china2016/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Jul 2016 11:09:00 -0400</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2016 11:09:00 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -1710,8 +1710,8 @@
 
 </description>
         <pubDate>Tue, 12 Jul 2016 00:00:00 -0400</pubDate>
-        <link>http://zzcoder.github.io/china2016/blog/blog/2016/07/12/china.html</link>
-        <guid isPermaLink="true">http://zzcoder.github.io/china2016/blog/blog/2016/07/12/china.html</guid>
+        <link>http://zzcoder.github.io/china2016/china2016/blog/2016/07/12/china.html</link>
+        <guid isPermaLink="true">http://zzcoder.github.io/china2016/china2016/blog/2016/07/12/china.html</guid>
         
         
         <category>blog</category>
