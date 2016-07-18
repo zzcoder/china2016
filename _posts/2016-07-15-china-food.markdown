@@ -192,13 +192,19 @@ categories: blog
 
 ### 优酷
 【视频：阿里郎】<http://t.cn/Rt7e7iX>
+
 【视频：卖花姑娘】<http://t.cn/Rt7ew3D>
+
 【视频：朝鲜老歌】<http://t.cn/Rt7ebMg>
+
 【视频：为了谁】<http://t.cn/Rt79Mo6>
 
 ### YouTube
 <https://youtu.be/smToj-6fJsg>
+
 <https://youtu.be/uae9mOukN3U>
+
 <https://youtu.be/eO-cV2FLkmc>
+
 <https://youtu.be/pkdlMe08dSw>
 
