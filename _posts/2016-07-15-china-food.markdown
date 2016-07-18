@@ -19,7 +19,7 @@ categories: blog
 
 洛阳的早餐五花八门，最著名的是各种汤。我最爱喝汤了，所以正中我的胃口。
 
-牛肉汤，羊肉汤
+牛肉汤，羊肉汤. 汤的味道很鲜美，没有羊肉泡馍汤那么浓。配上大饼或饼丝别有一番滋味。
 {% responsive_image path: images/food/br-day1.jpg %}
 
 还有驴肉汤。这店把驴吃了但没忘歌颂驴的奉献精神。
@@ -160,7 +160,7 @@ categories: blog
 上海本地饮食已经被挤到角落里，美其名曰本帮菜。
 
 一出酒店就看见一个陕西饭馆，那得试试。来了碗臊子面，不正宗，但高大上，
-味道不错。都快到碗饭时间了，只吃了一碗。
+味道不错。都快到晚饭时间了，只吃了一碗。
 {% responsive_image path: images/food/shanghai-noodle1.jpg %}
 {% responsive_image path: images/food/shanghai-noodle2.jpg %}
 {% responsive_image path: images/food/shanghai-noodle3.jpg %}
@@ -183,3 +183,22 @@ categories: blog
 蓓蓓在天天的教唆下认识了许留山（甜点店），尽管芒果过敏，一见这家店就走不动了。
 {% responsive_image path: images/food/shanghai-desert.jpg %}
 {% responsive_image path: images/food/shanghai-desert2.jpg %}
+ 
+--------------------
+
+## 朝鲜歌曲的视频
+
+朝鲜姑娘在席间演唱的几首歌曲。
+
+### 优酷
+【视频：阿里郎】<http://t.cn/Rt7e7iX>
+【视频：卖花姑娘】<http://t.cn/Rt7ew3D>
+【视频：朝鲜老歌】<http://t.cn/Rt7ebMg>
+【视频：为了谁】<http://t.cn/Rt79Mo6>
+
+### YouTube
+<https://youtu.be/smToj-6fJsg>
+<https://youtu.be/uae9mOukN3U>
+<https://youtu.be/eO-cV2FLkmc>
+<https://youtu.be/pkdlMe08dSw>
+
